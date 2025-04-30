@@ -1,1 +1,1 @@
-Before execution prepare course file careffully.
+Before execution prepare course file carefully.

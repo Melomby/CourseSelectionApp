@@ -1,1 +1,1 @@
-# ConsoleApplication2
+Before execution prepare course file careffully.
